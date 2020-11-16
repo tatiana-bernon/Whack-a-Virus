@@ -14,7 +14,7 @@ var totalWhacks = document.getElementById("whackcounter");
 let timer = document.getElementById("timer");
 let alertSound = new Audio("./alert.mp3");
 
-virus.src = "./images/rsz_1coronavirus.png";
+virus.src = "images/rsz_1coronavirus.png";
 clicked.onclick = startGame
 
 const spawnVirus = function () {
