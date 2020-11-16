@@ -15,10 +15,5 @@ OR
 From your desktop folder open the HTML file in your browser
 ```
 
-
-## NyanCatSweeper
-![alt text](https://github.com/tatiana-bernon/JavaScript-Game-Carnival/blob/4e622c39217569a502182d9910f23b7c872ce2e0/nyanCatsweeper.png)
-Find my repo [here](https://github.com/tatiana-bernon/NyanCat-Sweeper)
-
 ## WhackAVirus
 ![alt text](https://github.com/tatiana-bernon/JavaScript-Game-Carnival/blob/4e622c39217569a502182d9910f23b7c872ce2e0/Whackavirus.png)
